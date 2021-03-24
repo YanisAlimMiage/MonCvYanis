@@ -35,6 +35,7 @@ function App() {
      <Route path="/formation" exact component={For_dep}/>
 
      </Router>
+     <Accuil></Accuil>
      <About></About>
     
      <For_dep ></For_dep>
