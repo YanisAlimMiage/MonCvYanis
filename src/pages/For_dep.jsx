@@ -31,13 +31,8 @@ AOS.init();
                             <div className="timeline-content">
                                 <h5 className="title">Master 1</h5>
                                 <p className="description">
-                                CONCEPTION ET DÉVELOPPEMENT D'UNE APPLICATION WEB
-                                 DE GESTION D’ENTREPRISE CHEZ BIPRAX CONSULTING
-                                 (API SYMFONY-REACT ).
-                                 -conception et créationd'une base de données relationnelle
-                                  (MCD,MLD,SGBD,MySQL).
-                                 -développement d'une APIRest avec Symfony
-                                 -DÉVELOPPEMENT D'UNE INTERFACE WEB AVEC REACT
+                                Informatique parcours Miage Université de Lille depuit septembre 2020
+                                
                                 </p>
                             </div>
                         </div>

@@ -52,7 +52,8 @@ const ExP = ({history,match}) => {
                             <div className="timeline-content">
                                 <h5 className="title">AGENT DE SÉCURITÉ PRIVÉE (SECULILLE)</h5>
                                 <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur ex sit amet massa scelerisque scelerisque. Aliquam erat volutpat. Aenean interdum finibus efficitur. Praesent dapibus dolor felis, eu ultrices elit molestie.
+                                   
+j'ai travaillé en tant que qu'agent de sécurité privée chez seculille dans pleuseur cite different(magasin,magasine site de gardiennage hopital,... )ou j'ai peux travailler en equipe 
                                 </p>
                             </div>
                         </div>
@@ -70,7 +71,7 @@ const ExP = ({history,match}) => {
                             <div className="timeline-content">
                                 <h5 className="title">ÉQUIPIER POLYVALENT MCDONALD'S</h5>
                                 <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur ex sit amet massa scelerisque scelerisque. Aliquam erat volutpat. Aenean interdum finibus efficitur. Praesent dapibus dolor felis, eu ultrices elit molestie.
+                                j'ai travaillé en tant que equipier polyvalent chez mcdonald ou j'ai peux developper le travaille en equipe
                                 </p>
                             </div>
                         </div>
@@ -88,7 +89,7 @@ const ExP = ({history,match}) => {
                             <div className="timeline-content">
                                 <h5 className="title">COURSIER À VÉLO</h5>
                                 <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur ex sit amet massa scelerisque scelerisque. Aliquam erat volutpat. Aenean interdum finibus efficitur. Praesent dapibus dolor felis, eu ultrices elit molestie.
+                                    j'ai travaillé en tant que coursier a vélo chez deliveroo et uber eat ou j'ai pu developper mon esprit d'entreprenariat
                                 </p>
                             </div>
                         </div>
