@@ -14,6 +14,9 @@ const Projets = ({history,match}) => {
 
     return ( <>
        <div id="about" className="about container pt-5">
+               <div class="proj">
+                       <h3>Mes Projets</h3>
+               </div>
            <div class="row">
          
           

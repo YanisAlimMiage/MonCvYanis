@@ -790,6 +790,7 @@ header .header-scrolled {
     height: 500px;
     
     margin: 10px;
+    overflow: hidden;
   }
   
   /* On mouse-over, add a deeper shadow */
@@ -820,4 +821,8 @@ header .header-scrolled {
     padding-top: 30px;
     padding-bottom: 30px;
     margin-top: 20px;
+  }
+  .proj{
+    text-align: center;
+    margin: 20px;
   }
