@@ -8,7 +8,8 @@ import ExP from './pages/ExP';
 import About from './pages/About'
 import Projets from './pages/Projets';
 import For_dep from './pages/For_dep';
-import Projects from './pages/Projets'
+import Projects from './pages/Projets';
+import Footer from './pages/Footer';
 
 import { ToastContainer, toast } from 'react-toastify';
 import yanis from './../src/yanis.png';
@@ -42,6 +43,7 @@ function App() {
     
      <ExP></ExP>
      <Projects></Projects>
+     <Footer></Footer>
 
      <ToastContainer position={toast.POSITION.TOP_CENTER}/>
     

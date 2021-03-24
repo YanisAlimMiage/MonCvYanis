@@ -1,5 +1,5 @@
 import React from 'react';
-import AOS from 'aos/';
+
 import yanis from './../../src/yanis.png';
 import 'aos/dist/aos.css';
 const About =({}) =>{

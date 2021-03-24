@@ -782,7 +782,42 @@ header .header-scrolled {
   }
   
   
+  .carte {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    height: 500px;
+    
+    margin: 10px;
+  }
   
+  /* On mouse-over, add a deeper shadow */
+  .carte:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
   
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+  
+  .pro{
+    height: 200px;
+  }
 
-  
+  .bas_logo{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+   
+  }
+  .text{
+    text-align: center;
+  }
+  .bas{
+    background-color: #c6c6c6;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+  }
