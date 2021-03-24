@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MonCvYanis/static/css/main.3708ae8b.chunk.css",
+    "main.js": "/MonCvYanis/static/js/main.fdfb07de.chunk.js",
+    "main.js.map": "/MonCvYanis/static/js/main.fdfb07de.chunk.js.map",
+    "runtime-main.js": "/MonCvYanis/static/js/runtime-main.30bfe6d4.js",
+    "runtime-main.js.map": "/MonCvYanis/static/js/runtime-main.30bfe6d4.js.map",
+    "static/css/2.ec02d681.chunk.css": "/MonCvYanis/static/css/2.ec02d681.chunk.css",
+    "static/js/2.56a73cac.chunk.js": "/MonCvYanis/static/js/2.56a73cac.chunk.js",
+    "static/js/2.56a73cac.chunk.js.map": "/MonCvYanis/static/js/2.56a73cac.chunk.js.map",
+    "static/js/3.b9239348.chunk.js": "/MonCvYanis/static/js/3.b9239348.chunk.js",
+    "static/js/3.b9239348.chunk.js.map": "/MonCvYanis/static/js/3.b9239348.chunk.js.map",
+    "index.html": "/MonCvYanis/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/MonCvYanis/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.3708ae8b.chunk.css.map": "/MonCvYanis/static/css/main.3708ae8b.chunk.css.map",
+    "static/js/2.56a73cac.chunk.js.LICENSE.txt": "/MonCvYanis/static/js/2.56a73cac.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MonCvYanis/static/media/yanis.1b944d7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30bfe6d4.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.56a73cac.chunk.js",
+    "static/css/main.3708ae8b.chunk.css",
+    "static/js/main.fdfb07de.chunk.js"
+  ]
+}
