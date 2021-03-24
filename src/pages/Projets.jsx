@@ -35,7 +35,7 @@ const Projets = ({history,match}) => {
                                                 <img class="card-img-top pro" src={cvyanis} alt="Card image cap"></img>
                                                 <div class="card-body">
                                                 <h5 class="card-title">Mon Cv</h5>
-                                                <p class="card-text">Mon Cv en ligne realiser avec les technologie React et bootstrap.</p>
+                                                <p class="card-text">Mon cv en ligne realisé avec les technologie React et bootstrap.</p>
                                                 <a href="https://github.com/YanisAlimMiage/MonCvYanis" class="btn btn-primary">Code</a>
                                                 </div>
 
@@ -44,7 +44,7 @@ const Projets = ({history,match}) => {
                                                 <img class="card-img-top pro" src={jeux} alt="Card image cap"></img>
                                                 <div class="card-body">
                                                 <h5 class="card-title">JEUX DE CARTES</h5>
-                                                <p class="card-text">Jeux de carte realiser avec html,css,Jquary.</p>
+                                                <p class="card-text">jeux de cartes realisé avec html,css,Jquary.</p>
                                                 <a href="https://github.com/YanisAlimMiage/JeuxDeCarte" class="btn btn-primary">CODE</a>
                                                 </div>
 
@@ -53,7 +53,7 @@ const Projets = ({history,match}) => {
                                                 <img class="card-img-top" src={pyramide} alt="Card image cap"></img>
                                                 <div class="card-body">
                                                 <h5 class="card-title">Pyramide</h5>
-                                                <p class="card-text">creation d'un jeux (pyramide) ou on doit trouver un mots cacher avec des indices ,une API reste ou j'ai developper le back end avec .net (c#) et la partie frant end avec react et bootstrape.</p>
+                                                <p class="card-text">creation d'un jeux (pyramide) ou on doit trouver un mot caché avec des indices ,une API reste ou j'ai developper le back end avec .net (c#) et la partie front end avec react et bootstrape.</p>
                                                 <a href="https://github.com/YanisAlimMiage/pyramide" class="btn btn-primary">CODE</a>
                                                 </div>
 
@@ -62,7 +62,7 @@ const Projets = ({history,match}) => {
                                                 <img class="card-img-top" src={musique} alt="Card image cap"></img>
                                                 <div class="card-body">
                                                 <h5 class="card-title">n'oubliez pas les paroles</h5>
-                                                <p class="card-text">N'oubliez pas les paroles application mobile android realiser avec app inventor .</p>
+                                                <p class="card-text">N'oubliez pas les paroles application mobile android realisé avec app inventor .</p>
                                                 <a href="https://github.com/YanisAlimMiage/musique" class="btn btn-primary">CODE</a>
                                                 </div>
 

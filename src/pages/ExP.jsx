@@ -53,7 +53,7 @@ const ExP = ({history,match}) => {
                                 <h5 className="title">AGENT DE SÉCURITÉ PRIVÉE (SECULILLE)</h5>
                                 <p className="description">
                                    
-j'ai travaillé en tant que qu'agent de sécurité privée chez seculille dans pleuseur cite different(magasin,magasine site de gardiennage hopital,... )ou j'ai peux travailler en equipe 
+j'ai travaillé en tant que qu'agent de sécurité privée chez seculille dans plusieurs sites differents(magasin,magasine site de gardiennage hopital,... )ou j'ai peux travailler en equipe 
                                 </p>
                             </div>
                         </div>
@@ -71,7 +71,7 @@ j'ai travaillé en tant que qu'agent de sécurité privée chez seculille dans p
                             <div className="timeline-content">
                                 <h5 className="title">ÉQUIPIER POLYVALENT MCDONALD'S</h5>
                                 <p className="description">
-                                j'ai travaillé en tant que equipier polyvalent chez mcdonald ou j'ai peux developper le travaille en equipe
+                                j'ai travaillé en tant que equipier polyvalent chez mcdonald ou j'ai pu developper le travaille en equipe
                                 </p>
                             </div>
                         </div>
