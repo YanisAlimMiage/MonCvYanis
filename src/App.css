@@ -823,6 +823,7 @@ header .header-scrolled {
     margin-top: 20px;
   }
   .proj{
-    text-align: center;
-    margin: 20px;
+    
+    margin: 20px 0px 20px 0px;
+    
   }

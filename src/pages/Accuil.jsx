@@ -76,7 +76,7 @@ const Accuil = ({history,match}) => {
           <li><a class="nav-link scrollto " href="#about">A Propos</a></li>
           <li><a class="nav-link scrollto" href="#for">Formation</a></li>
           <li><a class="nav-link scrollto" href="#exp">Expériences</a></li>
-         
+          <li><a class="nav-link scrollto" href="#projet">Projets</a></li>
           
           
           

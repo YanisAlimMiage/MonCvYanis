@@ -1,15 +1,13 @@
 import React from 'react';
 
-import yanis from './../../src/yanis.png';
+import yanis from './../../src/yanis.jpg';
+import cvt from './../../src/cvT.pdf';
 import 'aos/dist/aos.css';
 const About =({}) =>{
 
     return (
         <>
-        <div id="about" className="about container pt-5" data-aos="fade-left"
-     data-aos-anchor="#example-anchor"
-     data-aos-offset="1500"
-     data-aos-duration="1500">
+        <div id="about" className="about container pt-5">
         <div  className="card">
   <h5 className="card-header">A Propos</h5>
   <div className="card-body">
@@ -43,11 +41,13 @@ const About =({}) =>{
                         <p>  <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-calendar-event-fill" viewBox="0 0 16 16">
                         <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4V.5zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2zm-3.5-7h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
                         </svg> 23 ans </p>
+                        <a className="btn btn-primary" href={cvt}> Télecharger mon Cv</a>
         </div>
     </div>
   </div>
 </div>
 </div>
+
         </div>
         </>
 

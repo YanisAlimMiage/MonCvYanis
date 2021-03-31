@@ -13,9 +13,9 @@ const Projets = ({history,match}) => {
 
 
     return ( <>
-       <div id="about" className="about container pt-5">
+       <div id="projet" className="about container pt-5">
                <div class="proj">
-                       <h3>Mes Projets</h3>
+                       <h2>Mes Projets :</h2>
                </div>
            <div class="row">
          
