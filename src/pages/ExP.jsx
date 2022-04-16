@@ -14,7 +14,26 @@ const ExP = ({history,match}) => {
     <br></br>
 <div className="main-timeline">
 
+<div className="timeline">
+                            <div className="icon"></div>
+                            <div className="date-content">
+                                <div className="date-outer">
+                                    <span className="date">
+                                            <span className="month">2021</span>
+                                    <span className="year">2022</span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div className="timeline-content">
+                                <h5 className="title">Ingénieur logiciel</h5>
+                                <p className="description">
+                                Ingénieur logiciel chez Fresenius-Kabi en alternance ou j'ai pu participer a
+plusieurs projets de développement d'applications web et desktop, Avec les
+technologies suivantes .Net, XAML, Java, Html, Bootstrap,..
 
+                                </p>
+                            </div>
+                        </div>
                         <div className="timeline">
                             <div className="icon"></div>
                             <div className="date-content">
@@ -26,15 +45,12 @@ const ExP = ({history,match}) => {
                                 </div>
                             </div>
                             <div className="timeline-content">
-                                <h5 className="title">STAGIAIRE CONCEPTION ET DÉVELOPPEMENT</h5>
+                                <h5 className="title">Developpeur full stack</h5>
                                 <p className="description">
-                                CONCEPTION ET DÉVELOPPEMENT D'UNE APPLICATION WEB
-                                 DE GESTION D’ENTREPRISE CHEZ BIPRAX CONSULTING
-                                 (API SYMFONY-REACT ).
-                                 -conception et créationd'une base de données relationnelle
-                                  (MCD,MLD,SGBD,MySQL).
-                                 -développement d'une APIRest avec Symfony
-                                 -DÉVELOPPEMENT D'UNE INTERFACE WEB AVEC REACT
+                                Développeur Full stack chez BipRax consulting ou j'ai pu faire la modalisation
+et la conception d'une application Web Symfony/React pendant un stage de 3
+mois
+
                                 </p>
                             </div>
                         </div>

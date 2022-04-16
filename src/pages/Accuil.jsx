@@ -94,7 +94,7 @@ const Accuil = ({history,match}) => {
           <h1 class="hero-title mb-4">Je suis Yanis alim</h1>
           <p class="hero-subtitle"><span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
           <h1 >
-                  <a href="" class="typewrite" data-period="2000" data-type='[ "Développeur Full Stack.", "BI.", "BIG DATA." ]'>
+                  <a href="" class="typewrite" data-period="2000" data-type='[ "Développeur Full Stack.", "Développeur Web.", "DATA.","ingénieur logiciel." ]'>
                    <span class="wrap"></span>
                  </a>
 </h1>

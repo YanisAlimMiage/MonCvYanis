@@ -17,7 +17,25 @@ AOS.init();
    
 <div className="main-timeline">
                          
-
+                        <div className="timeline">
+                            <div className="icon"></div>
+                            <div className="date-content">
+                                <div className="date-outer">
+                                    <span className="date">
+                                            <span className="month">2021</span>
+                                    <span className="year">2022</span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div className="timeline-content">
+                                <h5 className="title">Ingénierie 2 (Bac+5)</h5>
+                                <p className="description">
+                                informatique et système d'information parcours Développement
+Ecole EPSI
+                                
+                                </p>
+                            </div>
+                        </div>
                         <div className="timeline">
                             <div className="icon"></div>
                             <div className="date-content">
